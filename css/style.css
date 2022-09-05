@@ -71,3 +71,24 @@ a {
     text-align: center;
     margin-top: 80px;
 }
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about__body {
+    padding: 60px;
+}
+
+.about__title {
+    font-size: 36px;
+    text-align: center;
+}
+
+.about__text {
+    font-size: 24px;
+    margin: 40px;
+    line-height: 36px;
+}
